@@ -1,3 +1,5 @@
+![Amazon_Lex](https://github.com/Tijaw1/unit13-challenge/blob/main/Amazon_Lex.png)
+
 # unit13-challenge
 
 This program is a Robo Advisor built using Amazon lex and amazon lambda platforms. The program is meant to be an investment advisor. It takes in the customers personal information and risk appetite and recommends a portfolio that aligns with the customer requirements.
